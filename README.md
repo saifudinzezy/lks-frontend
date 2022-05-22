@@ -10,15 +10,5 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+link membuat project vue
+https://www.notion.so/INSTALATION-VUE-JS-67d5af0f35334a3c9e9d81efe86fcc4d
